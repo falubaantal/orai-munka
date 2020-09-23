@@ -7,3 +7,4 @@ terencehill
 Oscardij
 >>>>>>> e1a4b34a195077c0909c2f3ec69573794d329ffa
 megjelelnés helye
+zeneszerző laci
